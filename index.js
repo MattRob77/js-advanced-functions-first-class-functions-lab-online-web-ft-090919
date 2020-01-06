@@ -14,4 +14,4 @@ const createFareMultiplier(int){
   return function(fare){ 
     
   } 
-} 
+}

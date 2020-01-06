@@ -15,3 +15,4 @@ function createFareMultiplier(i) {
         return fare * i;
     }
 }
+
